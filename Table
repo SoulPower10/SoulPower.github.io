@@ -1,0 +1,21 @@
+<html>
+    <head></head>
+    <body>
+        <table border="1">
+           <thead>
+            <tr>\
+                <td>judul</td>
+                <td>waktu</td>
+                <td>tempat</td>
+            </tr>
+           </thead>
+           <tbody>
+            <tr>
+                <td>isi</td>
+                <td>kapan</td>
+                <td>dimana</td>
+            </tr>
+           </tbody>
+        </table>
+    </body>
+</html>
